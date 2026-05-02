@@ -4,7 +4,7 @@ def sql_connection():
     return mysql.connector.connect (
         host = "localhost",
         user = "root",
-        password = "Redlightning1!",
+        password = "SushiSql72!",
         database = "elite102_banking_app"
     )
 
